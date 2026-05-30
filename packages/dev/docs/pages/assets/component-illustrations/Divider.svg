@@ -1,4 +1,1 @@
-<svg style="background:var(--anatomy-gray-100); padding: 60px 10px" height="1" viewBox="0 0 180 1">
-  <rect id="Placement_Area" data-name="Placement Area" width="180" height="1" fill="red" opacity="0"/>
-  <rect id="Divider" width="180" height="1" fill="var(--anatomy-gray-400)"/>
-</svg>
+<svg style="background:var(--anatomy-gray-100);padding:60px 10px" height="1" viewBox="0 0 180 1"><rect id="Placement_Area" width="180" height="1" fill="red" data-name="Placement Area" opacity="0"/><rect id="Divider" width="180" height="1" fill="var(--anatomy-gray-400)"/></svg>
